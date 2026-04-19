@@ -155,3 +155,63 @@ FROM request_counts
 0 
 ##### Замечание
 Нагрузка малая, поэтому ничего не падает. Но большую мой компьютер не выдаст
+
+### QPS
+
+```sql
+SELECT
+    time,
+    round(sum(avg_rate), 2) AS qps
+FROM (
+    SELECT
+        toStartOfMinute(timestamp) AS time,
+        labels['operation'] AS operation,
+        avg(value) AS avg_rate
+    FROM metrics
+    WHERE metric = 'pastebin_db_queries_rate'
+      AND timestamp >= now() - INTERVAL 10 MINUTE
+    GROUP BY time, operation
+)
+GROUP BY time
+ORDER BY time
+```
+
+#### Результат
+Выводит количество запросов за минутный интервал в течение десяти минут. Значения порядка 33
+
+---
+
+### Prewhere
+
+```sql
+SELECT
+    path AS endpoint,
+    sum(requests) AS total_requests
+FROM (
+    SELECT
+        labels['path'] AS path,
+        labels['method'] AS method,
+        labels['status_code'] AS status_code,
+        max(value) - min(value) AS requests
+    FROM metrics
+    PREWHERE metric = 'pastebin_http_requests_total'
+      AND timestamp >= now() - INTERVAL 5 MINUTE
+    WHERE labels['path'] LIKE '/api/%'
+    GROUP BY path, method, status_code
+)
+GROUP BY path
+ORDER BY total_requests DESC
+```
+
+### Запрос к агрегированным данным
+
+```sql
+SELECT
+    minute,
+    avg(avg_value) AS avg_latency
+FROM metrics_1min
+WHERE metric = 'pastebin_http_request_duration_seconds'
+  AND minute >= now() - INTERVAL 30 MINUTE
+GROUP BY minute
+ORDER BY minute
+```
