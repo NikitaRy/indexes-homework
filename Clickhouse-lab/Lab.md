@@ -29,7 +29,7 @@ pastebin_pastes_created_rate           | 2296
 pastebin_http_requests_total           | 8702
 
 ### Считаем RPS
-Выполним запрос, что подсчитать rpc за последние 30 секунд для API энтрипойнтов:
+Выполним запрос, что подсчитать rps за последние 30 секунд для API энтрипойнтов:
 
 ```sql
 SELECT
