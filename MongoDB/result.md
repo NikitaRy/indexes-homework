@@ -1,4 +1,3 @@
-C:\Users\User.TESTPCN\Downloads\бдшки\mongo>node index.js
 Успешное подключение к MongoDB
 
 --- Задание 1: Tom Hanks и Tim Allen ---
