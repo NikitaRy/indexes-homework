@@ -1,0 +1,175 @@
+Speaker_Name,Email,Track,Paper_Title,Paper_Number,Status,Year
+Smith John,smith@email.com,system programming,Optimizing Linux Kernel Schedulers,1,winner,2024
+Johnson Mary,johnson@email.com,machine learning,Federated Learning for Healthcare,2,prize winner,2024
+Brown David,brown@email.com,bioengineering,CRISPR-based Gene Therapy,3,participant,2024
+Wilson Sarah,wilson@email.com,system programming,Container Security in Docker,4,participant,2024
+Taylor Michael,taylor@email.com,machine learning,Transformer Models Analysis,5,winner,2024
+Anderson Emily,anderson@email.com,bioengineering,Synthetic Biology Applications,6,prize winner,2024
+Miller James,miller@email.com,system programming,Real-time OS Development,7,participant,2024
+Davis Jennifer,davis@email.com,machine learning,GAN for Image Generation,8,participant,2024
+Martinez Carlos,martinez@email.com,bioengineering,Stem Cell Research,10,winner,2024
+Thompson Lisa,thompson@email.com,machine learning,Reinforcement Learning Robotics,11,participant,2024
+Garcia Robert,garcia@email.com,system programming,Network Protocol Optimization,12,participant,2024
+Clark Patricia,clark@email.com,bioengineering,Protein Folding Prediction,13,prize winner,2024
+Rodriguez Daniel,rodriguez@email.com,machine learning,Time Series Forecasting,14,winner,2024
+Lee Kevin,lee@email.com,system programming,Embedded Systems Security,15,participant,2024
+Hall Susan,hall@email.com,bioengineering,Microbiome Analysis,16,participant,2024
+Young Mark,young@email.com,machine learning,Computer Vision for Agriculture,17,prize winner,2024
+King Elizabeth,king@email.com,system programming,Virtualization Performance,18,winner,2024
+Scott Thomas,scott@email.com,bioengineering,Drug Discovery AI,19,participant,2024
+Green Jessica,green@email.com,machine learning,NLP for Medical Texts,20,participant,2024
+Adams Richard,adams@email.com,system programming,Blockchain Scalability,21,prize winner,2024
+Adams Richard,adamsR@email.com,bioengineering,Tissue Engineering,22,winner,2024
+Carter Paul,carter@email.com,machine learning,Anomaly Detection Systems,23,participant,2024
+Perez Maria,perez@email.com,system programming,Cloud Computing Security,24,participant,2024
+Evans Charles,evans@email.com,bioengineering,Personalized Medicine,25,prize winner,2024
+Morris Linda,morris@email.com,machine learning,Recommendation Systems,26,winner,2024
+Rogers Steven,rogers@email.com,system programming,Mobile OS Development,27,participant,2024
+Reed Amanda,reed@email.com,bioengineering,Genome Sequencing,28,participant,2024
+Cook Brian,cook@email.com,machine learning,Deep Learning Optimization,29,prize winner,2024
+Morgan Karen,morgan@email.com,system programming,Database Performance,30,winner,2024
+Bell Matthew,bell@email.com,bioengineering,Neural Interfaces,31,participant,2024
+Cooper Michelle,cooper@email.com,machine learning,Speech Recognition,32,participant,2024
+Richardson Andrew,richardson@email.com,system programming,API Security,33,prize winner,2024
+Cox Deborah,cox@email.com,bioengineering,Regenerative Medicine,34,winner,2024
+Howard Jason,howard@email.com,machine learning,Predictive Maintenance,35,participant,2024
+Ward Melissa,ward@email.com,system programming,Compiler Design,36,participant,2024
+Torres Christopher,torres@email.com,bioengineering,Bioinformatics Tools,37,prize winner,2024
+Peterson Angela,peterson@email.com,machine learning,Fraud Detection AI,38,winner,2024
+Gray Timothy,gray@email.com,system programming,Distributed Systems,39,participant,2024
+Hughes Rebecca,hughes@email.com,bioengineering,Environmental Biotech,40,participant,2024
+James Edward,james@email.com,machine learning,Autonomous Vehicles AI,41,prize winner,2024
+Watson Barbara,watson@email.com,system programming,Quantum Computing,42,winner,2024
+Brooks Joshua,brooks@email.com,bioengineering,Genetic Engineering,43,participant,2024
+Sanders Laura,sanders@email.com,machine learning,Sentiment Analysis,44,participant,2024
+Price Kenneth,price@email.com,system programming,Cybersecurity Frameworks,45,prize winner,2024
+Bennett Stephanie,bennett@email.com,bioengineering,Clinical Trials AI,46,winner,2024
+Wood Kevin,wood@email.com,machine learning,Computer Vision Security,47,participant,2024
+Barnes Amanda,barnes@email.com,system programming,Software Testing,48,participant,2024
+Ross Gregory,ross@email.com,bioengineering,Precision Agriculture,49,prize winner,2024
+Henderson Sharon,henderson@email.com,machine learning,AI Ethics and Fairness,50,winner,2024
+Patterson Eric,patterson@email.com,system programming,Edge Computing,51,participant,2024
+Long Sandra,long@email.com,bioengineering,Cancer Research AI,52,participant,2024
+Flores Patrick,flores@email.com,machine learning,Natural Language Generation,53,prize winner,2024
+Washington Ruth,washington@email.com,system programming,Operating System Security,54,winner,2024
+Butler Nicholas,butler@email.com,bioengineering,Medical Imaging AI,55,participant,2024
+Simmons Carolyn,simmons@email.com,machine learning,Robotics Control,56,participant,2024
+Foster George,foster@email.com,system programming,Web Assembly,57,prize winner,2024
+Gonzalez Helen,gonzalez@email.com,bioengineering,Vaccine Development,58,winner,2024
+Bryant Scott,bryant@email.com,machine learning,Neural Architecture Search,59,participant,2024
+Alexander Diane,alexander@email.com,system programming,Microservices Architecture,60,participant,2024
+Griffin Paul,griffin@email.com,bioengineering,Biomaterial Science,61,winner,2024
+Hayes Michelle,hayes@email.com,machine learning,Transfer Learning,62,prize winner,2024
+Collins Brian,collins@email.com,system programming,Real-time Databases,63,participant,2024
+Russell Nancy,russell@email.com,bioengineering,Neurotechnology,64,participant,2024
+Coleman David,coleman@email.com,machine learning,Explainable AI,65,winner,2024
+Powell Lisa,powell@email.com,system programming,Mobile Security,66,prize winner,2024
+Myers Jeffrey,myers@email.com,bioengineering,Biomechanics,67,participant,2024
+Ford Kimberly,ford@email.com,machine learning,Multi-agent Systems,68,participant,2024
+Hamilton Brandon,hamilton@email.com,system programming,Software Defined Networking,69,winner,2024
+Graham Ashley,graham@email.com,bioengineering,Metabolic Engineering,70,prize winner,2024
+Wallace Jonathan,wallace@email.com,machine learning,Graph Neural Networks,71,participant,2024
+West Sarah,west@email.com,system programming,Container Orchestration,72,participant,2024
+Jordan Christopher,jordan@email.com,bioengineering,Synthetic Ecology,73,winner,2024
+Owens Megan,owens@email.com,machine learning,Few-shot Learning,74,prize winner,2024
+Reynolds Daniel,reynolds@email.com,system programming,Performance Monitoring,75,participant,2024
+Fisher Heather,fisher@email.com,bioengineering,Environmental DNA,76,participant,2024
+Ellis Mark,ellis@email.com,machine learning,Meta-learning,77,winner,2024
+Harrison Emily,harrison@email.com,system programming,API Gateways,78,prize winner,2024
+Gibson Thomas,gibson@email.com,bioengineering,Systems Biology,79,participant,2024
+Mcdonald Jessica,mcdonald@email.com,machine learning,Computer Vision Medical,80,participant,2024
+Cruz Michael,cruz@email.com,system programming,Load Balancing,81,winner,2024
+Marshall Deborah,marshall@email.com,bioengineering,Microbial Engineering,82,prize winner,2024
+Ortiz Richard,ortiz@email.com,machine learning,Reinforcement Learning Games,83,participant,2024
+Gomez Patricia,gomez@email.com,system programming,Database Sharding,84,participant,2024
+Murray Steven,murray@email.com,bioengineering,Biophotonics,85,winner,2024
+Freeman Linda,freeman@email.com,machine learning,Time Series Classification,86,prize winner,2024
+Burns Timothy,burns@email.com,system programming,Cache Optimization,87,participant,2024
+Shaw Karen,shaw@email.com,bioengineering,Plant Biotechnology,88,participant,2024
+Holmes Andrew,holmes@email.com,machine learning,AI for Education,89,winner,2024
+Dunn Melissa,dunn@email.com,system programming,Network Security,90,prize winner,2024
+Dean Christopher,dean@email.com,bioengineering,Enzyme Engineering,91,participant,2024
+Bowman Amanda,bowman@email.com,machine learning,Computer Vision Retail,92,participant,2024
+Lane Matthew,lane@email.com,system programming,Memory Safety,93,winner,2024
+Hudson Stephanie,hudson@email.com,bioengineering,Immunotherapy,94,prize winner,2024
+Wheeler Joseph,wheeler@email.com,machine learning,Natural Language Understanding,95,participant,2024
+Larson Nicole,larson@email.com,system programming,Concurrent Programming,96,participant,2024
+Carpenter William,carpenter@email.com,bioengineering,Gene Drive Systems,97,winner,2024
+Oliver Rebecca,oliver@email.com,machine learning,AI in Finance,98,prize winner,2024
+Perry Justin,perry@email.com,system programming,Firmware Security,99,participant,2024
+Spencer Hannah,spencer@email.com,bioengineering,Biosensors,100,participant,2024
+Smith John,smith@email.com,system programming,Linux Kernel Memory Management,1,prize winner,2025
+Johnson Mary,johnson@email.com,machine learning,Federated Learning Privacy,2,winner,2025
+Brown David,brown@email.com,bioengineering,CRISPR Diagnostics,3,prize winner,2025
+Wilson Sarah,wilson@email.com,system programming,Kubernetes Security,4,winner,2025
+Taylor Michael,taylor@email.com,machine learning,Vision Transformers,5,participant,2025
+Anderson Emily,anderson@email.com,bioengineering,Metabolic Engineering,6,participant,2025
+Miller James,miller@email.com,system programming,Real-time Linux,7,winner,2025
+Davis Jennifer,davis@email.com,machine learning,StyleGAN Applications,8,prize winner,2025
+Garcia Robert,garcia@email.com,system programming,HTTP/3 Performance,9,participant,2025
+Martinez Carlos,martinez@email.com,bioengineering,Organoid Technology,10,winner,2025
+Thompson Lisa,thompson@email.com,machine learning,Multi-task Learning,11,prize winner,2025
+Clark Patricia,clark@email.com,bioengineering,AlphaFold Applications,12,participant,2025
+Rodriguez Daniel,rodriguez@email.com,machine learning,LSTM Improvements,13,winner,2025
+Lee Kevin,lee@email.com,system programming,IoT Security,14,prize winner,2025
+Hall Susan,hall@email.com,bioengineering,Microbiome Therapeutics,15,participant,2025
+Young Mark,young@email.com,machine learning,Precision Agriculture AI,16,winner,2025
+King Elizabeth,king@email.com,system programming,Serverless Computing,17,prize winner,2025
+Scott Thomas,scott@email.com,bioengineering,AI Drug Discovery,18,participant,2025
+Green Jessica,green@email.com,machine learning,Clinical NLP,19,winner,2025
+Adams Richard,adams@email.com,system programming,DeFi Security,20,prize winner,2025
+Baker Nancy,baker@email.com,bioengineering,3D Bioprinting,21,participant,2025
+Carter Paul,carter@email.com,machine learning,Industrial Anomaly Detection,22,winner,2025
+Perez Maria,perez@email.com,system programming,Zero Trust Architecture,23,prize winner,2025
+Evans Charles,evans@email.com,bioengineering,Digital Health,24,participant,2025
+Morris Linda,morris@email.com,machine learning,Session-based Recommendations,25,winner,2025
+Rogers Steven,rogers@email.com,system programming,Android Security,26,prize winner,2025
+Reed Amanda,reed@email.com,bioengineering,Single-cell Genomics,27,participant,2025
+Cook Brian,cook@email.com,machine learning,Neural Network Compression,28,winner,2025
+Morgan Karen,morgan@email.com,system programming,Graph Databases,29,prize winner,2025
+Bell Matthew,bell@email.com,bioengineering,Brain-Computer Interface,30,participant,2025
+Cooper Michelle,cooper@email.com,machine learning,Real-time Speech Processing,31,winner,2025
+Richardson Andrew,richardson@email.com,system programming,REST API Design,32,prize winner,2025
+Cox Deborah,cox@email.com,bioengineering,Cell Therapy,33,participant,2025
+Howard Jason,howard@email.com,machine learning,Predictive Quality,34,winner,2025
+Ward Melissa,ward@email.com,system programming,LLVM Optimization,35,prize winner,2025
+Torres Christopher,torres@email.com,bioengineering,Computational Biology,36,participant,2025
+Peterson Angela,peterson@email.com,machine learning,Real-time Fraud Detection,37,winner,2025
+Gray Timothy,gray@email.com,system programming,Consensus Algorithms,38,prize winner,2025
+Hughes Rebecca,hughes@email.com,bioengineering,Marine Biotechnology,39,participant,2025
+James Edward,james@email.com,machine learning,Autonomous Navigation,40,winner,2025
+Watson Barbara,watson@email.com,system programming,Post-Quantum Cryptography,41,prize winner,2025
+Brooks Joshua,brooks@email.com,bioengineering,Gene Therapy Vectors,42,participant,2025
+Sanders Laura,sanders@email.com,machine learning,Multimodal Sentiment Analysis,43,winner,2025
+Price Kenneth,price@email.com,system programming,Threat Intelligence,44,prize winner,2025
+Bennett Stephanie,bennett@email.com,bioengineering,Clinical AI Tools,45,participant,2025
+Wood Kevin,wood@email.com,machine learning,Adversarial Robustness,46,winner,2025
+Barnes Amanda,barnes@email.com,system programming,Automated Testing,47,prize winner,2025
+Ross Gregory,ross@email.com,bioengineering,Agricultural Biotech,48,participant,2025
+Henderson Sharon,henderson@email.com,machine learning,Algorithmic Fairness,49,winner,2025
+Patterson Eric,patterson@email.com,system programming,Fog Computing,50,prize winner,2025
+Long Sandra,long@email.com,bioengineering,Cancer Biomarkers,51,participant,2025
+Flores Patrick,flores@email.com,machine learning,Text Generation Ethics,52,winner,2025
+Washington Ruth,washington@email.com,system programming,SELinux Policies,53,prize winner,2025
+Butler Nicholas,butler@email.com,bioengineering,Medical AI Validation,54,participant,2025
+Simmons Carolyn,simmons@email.com,machine learning,Robot Learning,55,winner,2025
+Foster George,foster@email.com,system programming,WebAssembly Security,56,prize winner,2025
+Gonzalez Helen,gonzalez@email.com,bioengineering,mRNA Technology,57,participant,2025
+Bryant Scott,bryant@email.com,machine learning,Neural Network Pruning,58,winner,2025
+Alexander Diane,alexander@email.com,system programming,Microservices Patterns,59,prize winner,2025
+Murray Steven,murray@email.com,bioengineering,Bioimaging Techniques,60,participant,2025
+Freeman Linda,freeman@email.com,machine learning,Multivariate Time Series,61,winner,2025
+Burns Timothy,burns@email.com,system programming,CPU Cache Optimization,62,prize winner,2025
+Shaw Karen,shaw@email.com,bioengineering,Plant Synthetic Biology,63,participant,2025
+Holmes Andrew,holmes@email.com,machine learning,Educational AI Systems,64,winner,2025
+Dunn Melissa,dunn@email.com,system programming,Network Monitoring,65,prize winner,2025
+Dean Christopher,dean@email.com,bioengineering,Enzyme Design,66,participant,2025
+Bowman Amanda,bowman@email.com,machine learning,Retail Computer Vision,67,winner,2025
+Lane Matthew,lane@email.com,system programming,Rust Memory Safety,68,prize winner,2025
+Hudson Stephanie,hudson@email.com,bioengineering,Cell Immunotherapy,69,participant,2025
+Wheeler Joseph,wheeler@email.com,machine learning,Language Model Safety,70,winner,2025
+Larson Nicole,larson@email.com,system programming,Concurrent Algorithms,71,prize winner,2025
+Carpenter William,carpenter@email.com,bioengineering,Gene Drive Ethics,72,participant,2025
+Oliver Rebecca,oliver@email.com,machine learning,Financial AI Risk,73,winner,2025
+Perry Justin,perry@email.com,system programming,BIOS Security,74,prize winner,2025
+Spencer Hannah,spencer@email.com,bioengineering,Wearable Biosensors,75,participant,2025
